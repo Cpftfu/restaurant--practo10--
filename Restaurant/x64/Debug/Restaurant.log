@@ -1,0 +1,17 @@
+﻿  Accountant.cpp
+  Administrator.cpp
+  Cook.cpp
+  Employee.cpp
+  Guest.cpp
+  MenuItem.cpp
+  Order.cpp
+  Product.cpp
+  Provider.cpp
+  Restaurant.cpp
+  Waiter.cpp
+  Warehouse.cpp
+  Создание кода...
+C:\Users\Вика\Desktop\Restaurant _red\Restaurant\Restaurant\Warehouse.cpp(54,1): warning C4715: Warehouse::GetProductCost: значение возвращается не при всех путях выполнения
+C:\Users\Вика\Desktop\Restaurant _red\Restaurant\Restaurant\Product.cpp(93,1): warning C4715: Product::GetProductPriceFromFile: значение возвращается не при всех путях выполнения
+C:\Users\Вика\Desktop\Restaurant _red\Restaurant\Restaurant\MenuItem.cpp(281,1): warning C4715: MenuItem::FindMenuItemByName: значение возвращается не при всех путях выполнения
+  Restaurant.vcxproj -> C:\Users\Вика\Desktop\Restaurant _red\Restaurant\x64\Debug\Restaurant.exe

@@ -1,0 +1,3 @@
+﻿  LibHash.cpp
+D:\2\c++\Restaurant\LibHash\LibHash.cpp(7,28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  LibHash.vcxproj -> D:\2\c++\Restaurant\x64\Debug\LibHash.lib

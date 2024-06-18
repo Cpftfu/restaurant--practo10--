@@ -1,0 +1,250 @@
+Apple cake
+500
+Apple
+Sweet Apple cake
+30 21 0
+Apple juice
+200
+Apple
+Sweet apple juice
+10 10 0
+Sharl
+1000
+Apple
+Sharlotka
+34 23 12
+Banana bread
+400
+Banana
+Delicious banana bread
+25 18 2
+Orange marmalade
+250
+Orange
+Tangy orange marmalade
+15 12 4
+Blueberry muffins
+300
+Blueberries
+Fresh blueberry muffins
+20 16 1
+Lemon bars
+350
+Lemon
+Zesty lemon bars
+18 14 3
+Strawberry shortcake
+450
+Strawberry
+Classic strawberry shortcake
+27 20 5
+Raspberry jam
+150
+Raspberry
+Homemade raspberry jam
+12 8 6
+Mango smoothie
+180
+Mango
+Refreshing mango smoothie
+9 10 2
+Kiwi sorbet
+200
+Kiwi
+Tangy kiwi sorbet
+12 9 1
+Avocado toast
+350
+Avocado
+Delicious avocado toast
+17 14 8
+Pineapple upside-down cake
+500
+Pineapple
+Moist pineapple upside-down cake
+30 25 10
+Peach cobbler
+400
+Peach
+Warm peach cobbler
+23 17 7
+Plum jam
+200
+Plum
+Homemade plum jam
+15 11 6
+Apricot tart
+350
+Apricot
+Flaky apricot tart
+20 15 4
+Cherry pie
+450
+Cherry
+Traditional cherry pie
+26 19 5
+Coconut macaroons
+250
+Coconut
+Chewy coconut macaroons
+14 12 3
+Pomegranate smoothie
+200
+Pomegranate
+Nutrient-packed pomegranate smoothie
+11 9 2
+Fig jam
+300
+Fig
+Sweet and sticky fig jam
+17 13 7
+Guava pastries
+350
+Guava
+Flaky guava pastries
+22 18 4
+Cranberry sauce
+150
+Cranberries
+Tangy cranberry sauce
+10 7 5
+Passionfruit cheesecake
+500
+Passionfruit
+Creamy passionfruit cheesecake
+28 22 9
+Lychee sorbet
+200
+Lychee
+Refreshing lychee sorbet
+12 10 3
+Nectarine crisp
+400
+Nectarine
+Crunchy nectarine crisp
+23 17 6
+Tangerine mousse
+300
+Tangerine
+Light and fluffy tangerine mousse
+15 12 3
+Boysenberry jam
+250
+Boysenberry
+Homemade boysenberry jam
+16 11 8
+Mulberry pie
+450
+Mulberry
+Sweet and tart mulberry pie
+26 19 7
+Pawpaw smoothie
+350
+Pawpaw
+Creamy pawpaw smoothie
+20 16 5
+Breadfruit curry
+400
+Breadfruit
+Spicy breadfruit curry
+24 18 10
+Ackee and saltfish
+450
+Ackee
+Traditional ackee and saltfish
+27 20 12
+Plantain fritters
+300
+Plantain
+Crispy plantain fritters
+18 14 4
+Carrot cake
+500
+Carrot
+Moist carrot cake
+32 22 5
+Chocolate chip cookies
+350
+Chocolate
+Homemade chocolate chip cookies
+20 15 2
+Vanilla ice cream
+200
+Vanilla
+Creamy vanilla ice cream
+12 10 3
+Peanut butter brownies
+400
+Peanut butter
+Fudgy peanut butter brownies
+25 18 6
+Caramel popcorn
+250
+Caramel
+Crunchy caramel popcorn
+14 12 4
+Honey-glazed ham
+500
+Honey
+Succulent honey-glazed ham
+30 25 8
+Barbecue ribs
+450
+Barbecue
+Sticky barbecue ribs
+28 20 10
+Teriyaki chicken
+400
+Teriyaki
+Flavorful teriyaki chicken
+24 17 9
+Spicy buffalo wings
+350
+Spicy
+Fiery buffalo wings
+20 15 5
+Garlic butter shrimp
+300
+Garlic
+Sizzling garlic butter shrimp
+18 14 3
+Beef stir-fry
+400
+Beef
+Satisfying beef stir-fry
+26 18 7
+Mushroom risotto
+350
+Mushroom
+Creamy mushroom risotto
+22 16 6
+Spinach and feta salad
+250
+Spinach
+Refreshing spinach and feta salad
+14 12 4
+Caprese sandwich
+300
+Tomato
+Fresh and flavorful caprese sandwich
+16 14 3
+Chicken Caesar wrap
+350
+Chicken
+Tasty chicken Caesar wrap
+20 15 5
+Greek-style yogurt
+200
+Yogurt
+Creamy Greek-style yogurt
+12 10 2
+Cheddar cheese
+250
+Cheese
+Sharp cheddar cheese
+15 12 4
+Dark chocolate
+100
+Chocolate
+Rich dark chocolate
+8 6 2
